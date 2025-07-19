@@ -2,7 +2,7 @@
 
 #  Prodigy Infotech – Data Science Internship (Task 1)
 
-<img src=""C:\Users\SARANKUMAR\OneDrive\Pictures\Screenshots\Prodigy_task_01.png"" alt="Banner" style="width:100%; max-width:700px;">
+<img src="Prodigy_task_01.png" alt="Banner" style="width:100%; max-width:700px;">
 
 Hi there!   
 I'm **Sarankumar**, and this repository showcases my submission for **Task 1** of the **Prodigy Infotech Data Science Internship**. In this task, I explored a real-world dataset and used data analysis and visualization techniques to uncover some interesting patterns.
