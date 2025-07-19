@@ -11,7 +11,7 @@ I'm **Sarankumar**, and this repository showcases my submission for **Task 1** o
 
 ## 🌍 About the Dataset
 
-I worked with the [**World Population Dataset**](https://github.com/kindo-tk/PRODIGY_DS_01/blob/main/worldpopulationdata.csv), which contains population statistics of various countries as of 2022. Some of the key features in the dataset include:
+I worked with the [**World Population Dataset**]([https://github.com/kindo-tk/PRODIGY_DS_01/blob/main/worldpopulationdata.csv](https://data.worldbank.org/indicator/SP.POP.TOTL)), which contains population statistics of various countries as of 2022. Some of the key features in the dataset include:
 
 - Total population  
 - Yearly population change (%)  
